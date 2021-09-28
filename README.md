@@ -1,13 +1,5 @@
 ﻿## HOMEPAGE
-
-- **English** - Coming soon.
-- **简体中文** - [https://gameframework.cn/](https://gameframework.cn/)
-  - **QQ 讨论群** 216332935
-
----
-
-![Game Framework](https://gameframework.cn/image/gameframework.png)
-
+根据日常使用拓展gameframework模块，增加了一些功能，如：
 ---
 
 ## Game Framework 简介
